@@ -1,0 +1,485 @@
+[{
+        "title": "Analyse des schweizerischen Energieverbrauchs nach Verwendungszwecken",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "4c963c00-a88e-48f4-98ef-d054af455c2f",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd3",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd3"
+    }, {
+        "title": "Angebote der Innovationsf\u00f6rderung im Energiebereich f\u00fcr Schweizer Firmen und Forschungsinstitute",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "1d38a201-8edf-451b-a287-f734e7bc7a07",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd4",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd4"
+    }, {
+        "title": "Beteiligung des BFE an internationalen Energieforschungsprogrammen",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "50e09d17-c87f-4cb5-9f7b-2803210a0343",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd5",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd5"
+    }, {
+        "title": "Energieforschungsstatistik (EFstat)",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "fe606459-cccb-4962-80ab-8d6697ad8401",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd10",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd10"
+    }, {
+        "title": "Energieforschungsstatistik (EFstat)",
+        "type": "resources",
+        "attribute": "url",
+        "id": "1f8e2d1f-eb07-4e41-bd47-fca49d982025",
+        "old_link": "https:\/\/lindas.admin.ch\/sfoe\/cube",
+        "new_link": "-"
+    }, {
+        "title": "Energieforschungsstatistik (EFstat)",
+        "type": "resources",
+        "attribute": "url",
+        "id": "a4b985de-3c1e-4205-8ca5-6dffcb18395f",
+        "old_link": "https:\/\/lindas.admin.ch\/sfoe\/cube",
+        "new_link": "-"
+    }, {
+        "title": "Energieverbrauchsstatistik in der Industrie und im Dienstleistungssektor",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "954b6e0b-eb35-4f3c-87f5-96e055c04b31",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd14",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd14"
+    }, {
+        "title": "Ex-Post-Analyse des Energieverbrauchs der schweizerischen Haushalte nach Bestimmungsfaktoren und Verwendungszwecken",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "4fbb2aee-19c5-471d-9113-ae41c6cb6adf",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd15",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd15"
+    }, {
+        "title": "Ex-Post-Analyse des schweizerischen Energieverbrauchs nach Bestimmungsfaktoren",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "912f238a-7783-42b3-bd90-24432751af90",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd16",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd16"
+    }, {
+        "title": "F\u00fcllungsgrad der Speicherseen, Sonntag 24h, Wochenbericht Speicherinhalt",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "5ad2f1c1-12ec-440c-8ab2-b51f44ba3883",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd17",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd17"
+    }, {
+        "title": "F\u00fcllungsgrad der Speicherseen, Sonntag 24h, Wochenbericht Speicherinhalt",
+        "type": "resources",
+        "attribute": "url",
+        "id": "a2c8d73d-07b3-4e06-81f0-53b0b019b64b",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd17",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd17"
+    }, {
+        "title": "Gesamte Erzeugung und Abgabe elektrischer Energie in der Schweiz",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "9f1157a8-4bfa-45b8-a6d3-05859efaffef",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd19",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd19"
+    }, {
+        "title": "Globalbeitr\u00e4ge an die Kantone nach Art. 15 EnG: Wirkungsanalyse kantonaler F\u00f6rderprogramme - Ergebnisse",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "a2ae29e7-1642-4146-9db7-d485838377da",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd20",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd20"
+    }, {
+        "title": "Impulsberatung erneuerbar heizen: MFH mit mehr als 6 Wohneinheiten",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "e3774f7d-7155-432c-a042-5801fd5b1275",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/csv\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/csv\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip"
+    }, {
+        "title": "Impulsberatung erneuerbar heizen: MFH mit mehr als 6 Wohneinheiten",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "316272ba-6b22-4985-9f36-04c65203e810",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/xtf\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/xtf\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip"
+    }, {
+        "title": "Impulsberatung erneuerbar heizen: MFH mit mehr als 6 Wohneinheiten",
+        "type": "resources",
+        "attribute": "url",
+        "id": "e3774f7d-7155-432c-a042-5801fd5b1275",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/csv\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/csv\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip"
+    }, {
+        "title": "Impulsberatung erneuerbar heizen: MFH mit mehr als 6 Wohneinheiten",
+        "type": "resources",
+        "attribute": "url",
+        "id": "316272ba-6b22-4985-9f36-04c65203e810",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/xtf\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser\/xtf\/2056\/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip"
+    }, {
+        "title": "Kennzahlen \u00f6ffentliche Ladeinfrastruktur Elektromobilit\u00e4t",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "9b2bec09-2486-443d-96a2-03eadf4cad0b",
+        "old_link": "http:\/\/www.ich-tanke-strom.ch\/kennzahlen",
+        "new_link": "https:\/\/www.ich-tanke-strom.ch\/kennzahlen"
+    }, {
+        "title": "Kontrollen Energieetiketten und Mindestanforderungen bei Elektroger\u00e4ten in der Schweiz",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "162dad12-79ea-496d-9088-83e9172e1fb2",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd23",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd23"
+    }, {
+        "title": "Ladestationen f\u00fcr Elektroautos",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "df6ecca9-1097-46ad-aa71-97f3f1a32f51",
+        "old_link": "https:\/\/github.com\/SFOE\/DIEMO-Documentation\/blob\/master\/How",
+        "new_link": "-"
+    }, {
+        "title": "Licht-Markt Schweiz",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "cf7dfd5e-fa1d-498f-8c3a-40834275c0af",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd25",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd25"
+    }, {
+        "title": "Potenzial der Seen und Fl\u00fcsse f\u00fcr W\u00e4rmeentzug und W\u00e4rmeeinleitung",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "7e53bf7e-4bfc-4789-86d4-3ddd3cd2cce7",
+        "old_link": "[{'url': 'www.bfe.admin.ch\/potenzial-waermenutzung-gewaesser', 'label': 'Bundesamt f\u00fcr Energie BFE - Detailbeschreibung'}, {'url': 'https:\/\/opendata.swiss\/de\/perma\/ogd90@bundesamt-fur-energie-bfe', 'label': 'Potenzialstudien und Publikationen zur W\u00e4rmenutzung aus Seen und Grundwasser'}, {'url': 'https:\/\/www.geocat.ch\/geonetwork\/srv\/ger\/catalog.search#\/metadata\/f51ab0db-c25c-4211-ab07-365734380066', 'label': 'geocat.ch permalink'}]",
+        "new_link": "[{'url': 'https:\/\/www.bfe.admin.ch\/potenzial-waermenutzung-gewaesser', 'label': 'Bundesamt f\u00fcr Energie BFE - Detailbeschreibung'}, {'url': 'https:\/\/opendata.swiss\/de\/perma\/ogd90@bundesamt-fur-energie-bfe', 'label': 'Potenzialstudien und Publikationen zur W\u00e4rmenutzung aus Seen und Grundwasser'}, {'url': 'https:\/\/www.geocat.ch\/geonetwork\/srv\/ger\/catalog.search#\/metadata\/f51ab0db-c25c-4211-ab07-365734380066', 'label': 'geocat.ch permalink'}]"
+    }, {
+        "title": "Preisszenarien f\u00fcr die Investitionsbeitr\u00e4ge Wasserkraft und Biomasse",
+        "type": "resources",
+        "attribute": "url",
+        "id": "3190dd34-b57a-4116-9783-8b1568027026",
+        "old_link": "https:\/\/pubdb.bfe.admin.ch\/suche?keywords=740",
+        "new_link": "-"
+    }, {
+        "title": "Projekte der Koordinationsstelle f\u00fcr nachhaltige Mobilit\u00e4t KOMO",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "9d80de78-9e24-4249-9aa1-eb383d2a11d9",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/csv\/2056\/ch.bfe.komo-projekte.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/csv\/2056\/ch.bfe.komo-projekte.zip"
+    }, {
+        "title": "Projekte der Koordinationsstelle f\u00fcr nachhaltige Mobilit\u00e4t KOMO",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "2dfb89c8-4a5b-4482-963e-c984fa7e63b0",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/xtf\/2056\/ch.bfe.komo-projekte.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/xtf\/2056\/ch.bfe.komo-projekte.zip"
+    }, {
+        "title": "Projekte der Koordinationsstelle f\u00fcr nachhaltige Mobilit\u00e4t KOMO",
+        "type": "resources",
+        "attribute": "url",
+        "id": "9d80de78-9e24-4249-9aa1-eb383d2a11d9",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/csv\/2056\/ch.bfe.komo-projekte.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/csv\/2056\/ch.bfe.komo-projekte.zip"
+    }, {
+        "title": "Projekte der Koordinationsstelle f\u00fcr nachhaltige Mobilit\u00e4t KOMO",
+        "type": "resources",
+        "attribute": "url",
+        "id": "2dfb89c8-4a5b-4482-963e-c984fa7e63b0",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/xtf\/2056\/ch.bfe.komo-projekte.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.komo-projekte\/xtf\/2056\/ch.bfe.komo-projekte.zip"
+    }, {
+        "title": "Referenz-Marktpreise gem\u00e4ss Art. 15, EnFV",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "eeadc4fb-8f11-4d13-a83b-4a0a0c816aec",
+        "old_link": "http:\/\/www.bfe.admin.ch\/kev",
+        "new_link": "https:\/\/www.bfe.admin.ch\/kev"
+    }, {
+        "title": "Referenz-Marktpreise gem\u00e4ss Art. 15, EnFV",
+        "type": "resources",
+        "attribute": "uri",
+        "id": "66208027-559c-4029-bc07-026a959db241",
+        "old_link": "https:\/\/ckan.opendata.swiss\/dataset\/eeadc4fb-8f11-4d13-a83b-4a0a0c816aec\/resource\/ca8b555b-ff28-4b1f-8668-4313109eae80",
+        "new_link": "-"
+    }, {
+        "title": "R\u00fcckerstattung nach Art. 15b EnG f\u00fcr stromintensive Endverbraucher",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "5164f3f8-2f72-4447-8527-a59eb882d086",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd28",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd28"
+    }, {
+        "title": "Schweizerische Elektrizit\u00e4tsstatistik: Aufteilung des Endverbrauchs nach Verbrauchergruppen",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "e86f562e-7b80-4ab7-94e6-2e13b2d11f37",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd33",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd33"
+    }, {
+        "title": "Schweizerische Elektrizit\u00e4tsstatistik: Aussenhandel der Schweiz mit Elektrizit\u00e4t nach L\u00e4ndern [vertraglich, handelsbasiert]",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "135dac98-b7e1-43f0-8f81-248bde301af1",
+        "old_link": " http:\/\/www.bfe.admin.ch\/ogd62",
+        "new_link": " https:\/\/www.bfe.admin.ch\/ogd62"
+    }, {
+        "title": "Schweizerische Elektrizit\u00e4tsstatistik: Physikalische Einfuhr und Ausfuhr der Schweiz von Elektrizit\u00e4t nach L\u00e4ndern",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "d0cc472e-92e6-4c65-aca1-626ff66c3c79",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd34",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd34"
+    }, {
+        "title": "Schweizerische Elektrizit\u00e4tsstatistik: Schweizerische Elektrizit\u00e4tsbilanz - Jahreswerte",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "48ef6abc-d443-4438-aab2-7251cdd2050a",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd32",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd32"
+    }, {
+        "title": "Schweizerische Elektrizit\u00e4tsstatistik: Schweizerische Elektrizit\u00e4tsbilanz - Monatswerte",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "df79bf66-f51d-407e-a63b-331d4b516d8f",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd35",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd35"
+    }, {
+        "title": "Schweizerische Gesamtenergiestatistik",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "80a379c0-9dcd-430e-9027-b60226b5b6c5",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd36",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd36"
+    }, {
+        "title": "Schweizerische Holzenergiestatistik",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "aacb2819-864f-4c02-88b5-5906ed63543b",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd37",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd37"
+    }, {
+        "title": "Schweizerische Statistik der erneuerbaren Energien",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "8a26e045-a613-4791-98ae-b69165c30aa2",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd38",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd38"
+    }, {
+        "title": "Solarenergiepotenziale der Schweizer Gemeinden",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "8c6a10fb-72f9-4f3c-bff5-e87d120bbd01",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd52",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd52"
+    }, {
+        "title": "Stand der Energiepolitik in den Kantonen",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "cb3656ae-178e-4447-97d2-6b4987ae1f94",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd39",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd39"
+    }, {
+        "title": "Stand der Energiepolitik in den Kantonen",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "0afe04de-480d-44fd-a4eb-67d900cf8ef1",
+        "old_link": "http:\/\/www.uvek-gis.admin.ch\/BFE\/ogd\/39\/ogd39_epec.csv",
+        "new_link": "https:\/\/www.uvek-gis.admin.ch\/BFE\/ogd\/39\/ogd39_epec.csv"
+    }, {
+        "title": "Stand der Energiepolitik in den Kantonen",
+        "type": "resources",
+        "attribute": "url",
+        "id": "0afe04de-480d-44fd-a4eb-67d900cf8ef1",
+        "old_link": "http:\/\/www.uvek-gis.admin.ch\/BFE\/ogd\/39\/ogd39_epec.csv",
+        "new_link": "https:\/\/www.uvek-gis.admin.ch\/BFE\/ogd\/39\/ogd39_epec.csv"
+    }, {
+        "title": "Statistik Elektrizit\u00e4tsverbrauch Widerstandsheizungen bei den Haushalten",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "bc38ed81-1356-4721-8da0-e5cc613efe4f",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd9",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd9"
+    }, {
+        "title": "Statistik Sonnenenergie",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "badcb4d8-2ff9-47b0-a165-ebdc50ec3b57",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd26",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd26"
+    }, {
+        "title": "Strom-Marktpreis gem\u00e4ss Art. 3 b bis, Abs. 2 und 3, EnV (2015 - 2017)",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "c08e9578-4908-4980-ad2a-df3c8264ee52",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd42",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd42"
+    }, {
+        "title": "Strom-Marktpreis gem\u00e4ss Art. 3 f, Abs. 3 EnV (2007-2014)",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "8138cca4-6567-431d-a791-f08e3e9ce5e3",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd43",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd43"
+    }, {
+        "title": "Teilstatistik Spezielle energetische Holznutzungen: Feuerungen und Motoren f\u00fcr erneuerbare Abf\u00e4lle",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "6f04ed5a-2952-4bb7-9f75-06b3b272e289",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd44",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd44"
+    }, {
+        "title": "Thermische Netze (Nahw\u00e4rme, Fernw\u00e4rme, Fernk\u00e4lte)",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "e85f0e09-3f51-491f-867e-34ae69f87b55",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.thermische-netze\/xtf\/2056\/ch.bfe.thermische-netze.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.thermische-netze\/xtf\/2056\/ch.bfe.thermische-netze.zip"
+    }, {
+        "title": "Thermische Netze (Nahw\u00e4rme, Fernw\u00e4rme, Fernk\u00e4lte)",
+        "type": "resources",
+        "attribute": "url",
+        "id": "e85f0e09-3f51-491f-867e-34ae69f87b55",
+        "old_link": "http:\/\/data.geo.admin.ch\/ch.bfe.thermische-netze\/xtf\/2056\/ch.bfe.thermische-netze.zip",
+        "new_link": "https:\/\/data.geo.admin.ch\/ch.bfe.thermische-netze\/xtf\/2056\/ch.bfe.thermische-netze.zip"
+    }, {
+        "title": "Thermische Stromproduktion inklusive W\u00e4rmekraftkopplung (WKK) in der Schweiz",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "6b25e3d0-b66d-4c70-bd13-22a41210d2b0",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd45",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd45"
+    }, {
+        "title": "Verkaufszahlenbasierte Energieeffizienzanalyse von Elektroger\u00e4ten",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "d0bd1d7e-c3ee-45d2-b929-e897a4b2c10e",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd46",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd46"
+    }, {
+        "title": "Vollzugsresultate der CO2-Emissionsvorschriften f\u00fcr Personenwagen",
+        "type": "resources",
+        "attribute": "uri",
+        "id": "dec9d229-5474-4263-8c1c-9dae3c21a0ba",
+        "old_link": "https:\/\/ckan.opendata.swiss\/dataset\/f1ccbbae-8629-4448-a209-617e8da3c27d\/resource\/8c42d6be-d1ab-4e47-a79d-dca7a436d569",
+        "new_link": "-"
+    }, {
+        "title": "Wettbewerbliche Ausschreibungen f\u00fcr Stromeffizienzmassnahmen gef\u00f6rderte Programme und Projekte",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "e46030db-346c-48bb-ba29-e559dc3b20ab",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd27",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd27"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 100 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "1e01c15f-0cfb-439c-ac44-09c95969f369",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h100\/windenergie-geschwindigkeit_h100\/windenergie-geschwindigkeit_h100_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 100 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "url",
+        "id": "1e01c15f-0cfb-439c-ac44-09c95969f369",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h100\/windenergie-geschwindigkeit_h100\/windenergie-geschwindigkeit_h100_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 125 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "a288389c-9498-4e23-bd8e-f86b9866ace4",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h125\/windenergie-geschwindigkeit_h125\/windenergie-geschwindigkeit_h125_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 125 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "url",
+        "id": "a288389c-9498-4e23-bd8e-f86b9866ace4",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h125\/windenergie-geschwindigkeit_h125\/windenergie-geschwindigkeit_h125_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 150 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "ce4ddb2d-8d96-486e-a530-201d53434692",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h150\/windenergie-geschwindigkeit_h150\/windenergie-geschwindigkeit_h150_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 150 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "url",
+        "id": "ce4ddb2d-8d96-486e-a530-201d53434692",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h150\/windenergie-geschwindigkeit_h150\/windenergie-geschwindigkeit_h150_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 50 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "f428f0bf-6abb-44de-9093-90b20a053b00",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h50\/windenergie-geschwindigkeit_h50\/windenergie-geschwindigkeit_h50_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 50 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "url",
+        "id": "f428f0bf-6abb-44de-9093-90b20a053b00",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h50\/windenergie-geschwindigkeit_h50\/windenergie-geschwindigkeit_h50_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 75 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "download_url",
+        "id": "aeeb69ed-5856-4872-8695-8028a8ee48ea",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h75\/windenergie-geschwindigkeit_h75\/windenergie-geschwindigkeit_h75_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Windatlas Schweiz: Jahresmittel der modellierten Windgeschwindigkeit und Windrichtung in 75 m H\u00f6he \u00fcber Grund",
+        "type": "resources",
+        "attribute": "url",
+        "id": "aeeb69ed-5856-4872-8695-8028a8ee48ea",
+        "old_link": "https:\/\/data.geo.admin.ch\/ch.bfe.windenergie-geschwindigkeit_h75\/windenergie-geschwindigkeit_h75\/windenergie-geschwindigkeit_h75_2056.fgdb.zip",
+        "new_link": "-"
+    }, {
+        "title": "Wochenstatistik Elektrizit\u00e4tsbilanz - Erzeugung und Abgabe elektrischer Energie in der Schweiz",
+        "type": "dataset",
+        "attribute": "url",
+        "id": "9ab8ccdd-acfd-442e-b315-8a44ff2536cb",
+        "old_link": "http:\/\/www.bfe.admin.ch\/ogd51",
+        "new_link": "https:\/\/www.bfe.admin.ch\/ogd51"
+    }, {
+        "title": "Wochenstatistik Elektrizit\u00e4tsbilanz - Erzeugung und Abgabe elektrischer Energie in der Schweiz",
+        "type": "resources",
+        "attribute": "uri",
+        "id": "c4829b06-4dc8-4078-8cb4-a4f46b9e3282",
+        "old_link": "https:\/\/ckan.opendata.swiss\/dataset\/9ab8ccdd-acfd-442e-b315-8a44ff2536cb\/resource\/21bd6e47-8645-4d6c-99ae-945db392122a",
+        "new_link": "-"
+    }, {
+        "title": "energiedashboard.ch: Stromproduktion Swissgrid",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "7676b090-6dff-483f-9d0c-166a0060b9b3",
+        "old_link": "[{'url': 'www.swissgrid.ch', 'label': 'swissgrid'}, {'url': 'www.entsoe.eu', 'label': 'ENTSO-E'}]",
+        "new_link": "[{'url': 'https:\/\/www.swissgrid.ch', 'label': 'swissgrid'}, {'url': 'https:\/\/www.entsoe.eu', 'label': 'ENTSO-E'}]"
+    }, {
+        "title": "energiedashboard.ch: Stromverbrauch Swissgrid",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "0b9b12cc-8fad-47b2-a6fa-1fdd7f6a20a4",
+        "old_link": "[{'url': 'www.swissgrid.ch', 'label': 'swissgrid'}, {'url': 'www.entsoe.eu', 'label': 'ENTSO-E'}]",
+        "new_link": "[{'url': 'https:\/\/www.swissgrid.ch', 'label': 'swissgrid'}, {'url': 'https:\/\/www.entsoe.eu', 'label': 'ENTSO-E'}]"
+    }, {
+        "title": "energiedashboard.ch: T\u00e4gliche Fl\u00fcsse in die und aus der Schweiz (Gas)",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "6f77c60b-fd9a-44ac-914f-be3ccd4db5af",
+        "old_link": "[{'url': 'www.entsog.eu', 'label': 'ENTSO-G'}, {'url': 'www.aggm.at', 'label': 'Austrian Gas Grid Management'}, {'url': 'https:\/\/smart.grtgaz.com\/en', 'label': 'Smart GRTgaz'}, {'url': 'https:\/\/gazenergie.ch\/de\/verband\/infothek\/jahresstatistik\/', 'label': 'Verband der Schweizerischen Gasindustrie'}]",
+        "new_link": "[{'url': 'https:\/\/www.entsog.eu', 'label': 'ENTSO-G'}, {'url': 'https:\/\/www.aggm.at', 'label': 'Austrian Gas Grid Management'}, {'url': 'https:\/\/smart.grtgaz.com\/en', 'label': 'Smart GRTgaz'}, {'url': 'https:\/\/gazenergie.ch\/de\/verband\/infothek\/jahresstatistik\/', 'label': 'Verband der Schweizerischen Gasindustrie'}]"
+    }, {
+        "title": "energiedashboard.ch: T\u00e4gliche Fl\u00fcsse in die und aus der Schweiz (Strom)",
+        "type": "dataset",
+        "attribute": "relations",
+        "id": "4b5cdb6f-5dae-4704-9bce-3b2297ce0b26",
+        "old_link": "[{'url': 'https:\/\/transparency.entsoe.eu\/', 'label': 'ENTSO-E Transparency Platform'}, {'url': 'www.swissgrid.ch', 'label': 'swissgrid'}]",
+        "new_link": "[{'url': 'https:\/\/transparency.entsoe.eu\/', 'label': 'ENTSO-E Transparency Platform'}, {'url': 'https:\/\/www.swissgrid.ch', 'label': 'swissgrid'}]"
+    }
+]
